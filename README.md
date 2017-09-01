@@ -1,3 +1,7 @@
+[//]: # (Image References)
+[lane-image]: ./runs/1504262773.4239352/umm_000012.png
+
+
 # Semantic Segmentation
 
 ### Introduction
@@ -7,7 +11,7 @@ The results of the run are present in the logsData file. The test images are in 
 
 Example output: 
 
-[!image](/runs/1504262773.4239352/umm_000012.png)
+![alt text][lane-image]
 
 ### Setup
 ##### Frameworks and Packages
