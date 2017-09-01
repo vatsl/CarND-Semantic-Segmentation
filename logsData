@@ -1,0 +1,35 @@
+TensorFlow Version: 1.2.1
+Default GPU Device: /gpu:0
+Tests Passed
+Tests Passed
+Tests Passed
+Tests Passed
+Tests Passed
+Training ...
+
+Epoch: 0/25 | Execution Time: 41.659523 sec | Loss: 0.6431269645690918
+Epoch: 1/25 | Execution Time: 75.446415 sec | Loss: 0.5246408581733704
+Epoch: 2/25 | Execution Time: 109.304316 sec | Loss: 0.19928260147571564
+Epoch: 3/25 | Execution Time: 143.262509 sec | Loss: 0.1332198530435562
+Epoch: 4/25 | Execution Time: 177.165789 sec | Loss: 0.12332863360643387
+Epoch: 5/25 | Execution Time: 211.112608 sec | Loss: 0.10888178646564484
+Epoch: 6/25 | Execution Time: 245.00914 sec | Loss: 0.08455943316221237
+Epoch: 7/25 | Execution Time: 278.942025 sec | Loss: 0.10075162351131439
+Epoch: 8/25 | Execution Time: 312.775836 sec | Loss: 0.28927019238471985
+Epoch: 9/25 | Execution Time: 346.555294 sec | Loss: 0.07624328881502151
+Epoch: 10/25 | Execution Time: 380.414452 sec | Loss: 0.0801442340016365
+Epoch: 11/25 | Execution Time: 414.263581 sec | Loss: 0.04549776017665863
+Epoch: 12/25 | Execution Time: 448.090202 sec | Loss: 0.07223883271217346
+Epoch: 13/25 | Execution Time: 481.812995 sec | Loss: 0.20049849152565002
+Epoch: 14/25 | Execution Time: 515.577562 sec | Loss: 0.09193522483110428
+Epoch: 15/25 | Execution Time: 549.420252 sec | Loss: 0.0898461788892746
+Epoch: 16/25 | Execution Time: 583.208224 sec | Loss: 0.0711570680141449
+Epoch: 17/25 | Execution Time: 617.034613 sec | Loss: 0.0261345487087965
+Epoch: 18/25 | Execution Time: 650.843592 sec | Loss: 0.05744005739688873
+Epoch: 19/25 | Execution Time: 684.575518 sec | Loss: 0.09301837533712387
+Epoch: 20/25 | Execution Time: 718.267808 sec | Loss: 0.050065673887729645
+Epoch: 21/25 | Execution Time: 752.002262 sec | Loss: 0.03475340083241463
+Epoch: 22/25 | Execution Time: 785.762347 sec | Loss: 0.0647154450416565
+Epoch: 23/25 | Execution Time: 819.564651 sec | Loss: 0.016936950385570526
+Epoch: 24/25 | Execution Time: 853.339886 sec | Loss: 0.030962791293859482
+Training Finished. Saving test images to: ./runs/1504262773.4239352
