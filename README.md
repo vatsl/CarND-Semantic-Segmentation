@@ -5,6 +5,10 @@ In this project, we will label the pixels of a road in images using a Fully Conv
 
 The results of the run are present in the logsData file. The test images are in the `runs` folder.
 
+Example output: 
+
+[!image](/runs/1504262773.4239352/umm_000012.png)
+
 ### Setup
 ##### Frameworks and Packages
 Make sure you have the following is installed:
